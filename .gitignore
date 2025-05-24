@@ -1,2 +1,5 @@
 venv
 .env
+test_jsons
+*.sqlite3
+__pycache__
